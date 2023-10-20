@@ -1,6 +1,6 @@
-# CS3219 OTOT Task A1
+# Docker & Kubernetes Tasks
 
-CS3219 OTOT Task A1 is split into 3 parts. Read up on reverse proxy [here](https://www.upguard.com/blog/reverse-proxy-vs-load-balancer).
+This task is split into 3 parts. Read up on reverse proxy [here](https://www.upguard.com/blog/reverse-proxy-vs-load-balancer).
 
 First, clone the repository
 ```sh
