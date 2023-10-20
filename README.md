@@ -1,6 +1,18 @@
 # Docker & Kubernetes Tasks
 
-This task is split into 3 parts. Read up on reverse proxy [here](https://www.upguard.com/blog/reverse-proxy-vs-load-balancer).
+This task is split into 3 parts. 
+
+Tasks:
+- A1.1 Deploy a simple web server running in a Docker container
+- A1.2 Setup NGINX and run a reverse proxy
+- A1.3 Combine both (A1.1) and (A1.2) to run a reverse proxy
+
+Marking Scheme:
+- A1.1 Demonstrate the ability to write a simple Dockerfile
+- A1.2 Setup NGINX and run a reverse proxy to serve static HTML page
+- A1.3 Setup NGINX and run a reverse proxy to serve node web application using Docker Compose
+
+Read up on reverse proxy [here](https://www.upguard.com/blog/reverse-proxy-vs-load-balancer).
 
 First, clone the repository
 ```sh
