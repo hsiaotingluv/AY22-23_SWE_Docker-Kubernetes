@@ -12,9 +12,10 @@ Marking Scheme:
 - A1.2 Setup NGINX and run a reverse proxy to serve static HTML page
 - A1.3 Setup NGINX and run a reverse proxy to serve node web application using Docker Compose
 
+## Getting Started
 Read up on reverse proxy [here](https://www.upguard.com/blog/reverse-proxy-vs-load-balancer).
 
-First, clone the repository
+Clone the repository
 ```sh
 git clone https://github.com/CS3219-AY2223S1/OTOT-A1.git
 cd cs3219_otot_taska1
